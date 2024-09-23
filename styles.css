@@ -1,0 +1,26 @@
+body{
+    background-image: url(./image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(148, 255, 127);
+}
+th{
+    border: 1px solid blue;
+}
+td{
+    border: 1px solid blue;
+}
+.art{
+    background-color: rgb(43, 226, 156);
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
